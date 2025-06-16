@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN Enthusiast | Code, Render, Repeat – A React Dev's Journey</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+web+apps;Leveling+up+DSA+in+Java;Open+to+new+opportunities&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+web+apps;Leveling+up+DSA+in+JavaScript;Open+to+new+opportunities&center=true&width=500&height=30">
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 - 💼 Ex-Junior Associate at **DHL IT Services**
 - 📍 Based in **India**, open to **relocation** or **remote work**
-- 🔁 Career restart after a 1-year gap, actively sharpening my **Data Structures & Algorithms (Java)** skills
+- 🔁 Career restart after a 1-year gap, actively sharpening my **Data Structures & Algorithms (JavaScript)** skills
 - 🌱 Currently upgrading my **Full-stack web development** and focusing on performance, security, and scalable architectures.
 - 🧰 Tech Playground: MERN Stack, Java, REST APIs, Git, HTML, CSS
 
@@ -30,7 +30,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 
 **Programming:**
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 **Tools:**
