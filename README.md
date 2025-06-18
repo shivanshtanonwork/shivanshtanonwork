@@ -40,7 +40,7 @@
 ---
 
 ### 🧠 Currently Focused On
-- 📘 Mastering DSA in **Java** (arrays, linked lists, trees, graphs, DP)
+- 📘 Learning DSA in **JavaScript** (arrays)
 - 🏗 Building scalable MERN projects with auth, payment, and dashboard features
 - 📊 Practicing and Learning Daily about Web Dev and DSA.
 
