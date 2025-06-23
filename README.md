@@ -63,7 +63,7 @@
 
 <p align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=shivanshtanonwork&theme=github-dark&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=shivanshtanonwork&theme=github-dark&hide_border=true" alt="Stats" />
 </p>
 
 <p align="center">
