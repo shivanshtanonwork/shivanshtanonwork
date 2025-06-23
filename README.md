@@ -62,8 +62,10 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
- 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshtanonwork&theme=github-dark" alt="Stats" width="50%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shivanshtanonwork&theme=github-dark" alt="Stats" width="50%" />
 </p>
 
 <p align="center">
