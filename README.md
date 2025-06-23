@@ -63,7 +63,7 @@
 
 <p align="center">
  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshtanonwork&theme=github-dark" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=shivanshtanonwork&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
