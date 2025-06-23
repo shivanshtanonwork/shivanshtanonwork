@@ -63,7 +63,7 @@
 
 <p align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=shivanshtanonwork&theme=github-dark&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshtanonwork&theme=github-dark" alt="Stats" />
 </p>
 
 <p align="center">
