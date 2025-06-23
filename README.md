@@ -64,8 +64,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshtanonwork&theme=github-dark" alt="Stats" width="50%" />
 </p>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=github_dark) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivanshtanonwork&theme=github-dark" alt="Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=github_dark"  width="50%" />
 </p>
 
 <p align="center">
