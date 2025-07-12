@@ -50,8 +50,8 @@
 <a href="https://wanderlust-q8mx.onrender.com/listings">
   🧾 <b>Wanderlust</b> – Full-stack travel app
 </a><br>
-<a href="https://github.com/shivanshtanonwork/TODOAPP-REDUX">
-  📊 <b>Todo-App</b> – Made in React & Redux
+<a href="https://github.com/shivanshtanonwork/Trading-App">
+  📊 <b>Trading-App</b> – Full-stack Trading App
 </a><br>
 <!-- <a href="https://github.com/your-username/project-3">
   🧠 <b>DSA Practice</b> – Java-based clean DSA solutions with explanations
