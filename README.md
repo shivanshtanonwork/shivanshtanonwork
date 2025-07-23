@@ -60,8 +60,9 @@
 ---
 
 ## 🧠 My LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/shivanshtandonwork?theme=unicorn&ext=contest)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/shivanshtandonwork?theme=unicorn&ext=contest" alt="LeetCode Stats" />
+</div>
 
 ---
 
