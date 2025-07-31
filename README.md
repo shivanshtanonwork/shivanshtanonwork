@@ -43,7 +43,7 @@
 - 📘 Learning DSA in **JavaScript** (arrays)
 - 🏗 Building scalable MERN projects with auth, payment, and dashboard features
 - 📊 Practicing and Learning Daily about Web Dev and DSA.
-
+- 🐍 Studying **Python** as a secondary focus for scripting, automation & backend flexibility.
 ---
 
 ### 📌 Featured Projects
