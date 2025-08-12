@@ -10,9 +10,9 @@
 ### 🧑‍💻 About Me
 - 💼 Ex-Junior Associate at **DHL IT Services**
 - 📍 Based in **India**, open to **relocation** or **remote work**
-- 🔁 Career restart after a 1-year gap, actively sharpening my **Data Structures & Algorithms (JavaScript)** skills
+- 🔁 Career restart after a 1-year gap, actively sharpening my **Data Structures & Algorithms (Java)** skills
 - 🌱 Currently upgrading my **Full-stack web development** and focusing on performance, security, and scalable architectures.
-- 🧰 Tech Playground: MERN Stack, JavaScript, REST APIs, Git, HTML, CSS
+- 🧰 Tech Playground: MERN Stack, JavaScript, REST APIs, Git, HTML, CSS, Java, Python
 
 ---
 
@@ -31,6 +31,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Programming:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -42,7 +43,7 @@
 ---
 
 ### 🧠 Currently Focused On
-- 📘 Learning DSA in **JavaScript** (arrays)
+- 📘 Learning DSA in **Java** (arrays)
 - 🏗 Building scalable MERN projects with auth, payment, and dashboard features
 - 📊 Practicing and Learning Daily about Web Dev and DSA.
 - 🐍 Studying **Python** as a secondary focus for scripting, automation & backend flexibility.
