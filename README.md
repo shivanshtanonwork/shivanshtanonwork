@@ -10,9 +10,9 @@
 ### 🧑‍💻 About Me
 - 💼 Ex-Junior Associate at **DHL IT Services**
 - 📍 Based in **India**, open to **relocation** or **remote work**
-- 🔁 Career restart after a 1-year gap, actively sharpening my **Data Structures & Algorithms (Java)** skills
+- 🔁 Career restart after a 1-year gap, actively sharpening my **Full Stack Development** Skill.
 - 🌱 Currently upgrading my **Full-stack web development** and focusing on performance, security, and scalable architectures.
-- 🧰 Tech Playground: MERN Stack, JavaScript, REST APIs, Git, HTML, CSS, Java, Python
+- 🧰 Tech Playground: MERN Stack, JavaScript, REST APIs, Git, HTML, CSS, Python
 
 ---
 
@@ -43,9 +43,9 @@
 ---
 
 ### 🧠 Currently Focused On
-- 📘 Learning DSA in **Java** (arrays)
+<!-- - 📘 Learning DSA in **Java** (arrays) -->
 - 🏗 Building scalable MERN projects with auth, payment, and dashboard features
-- 📊 Practicing and Learning Daily about Web Dev and DSA.
+- 📊 Practicing and Learning Daily about Web Dev and Python.
 - 🐍 Studying **Python** as a secondary focus for scripting, automation & backend flexibility.
 ---
 
@@ -62,10 +62,6 @@
 
 ---
 
-## 🧠 My LeetCode Stats
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/shivanshtandonwork?theme=unicorn&ext=contest" alt="LeetCode Stats" />
-</div>
 
 ---
 
