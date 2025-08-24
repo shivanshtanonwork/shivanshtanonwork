@@ -83,7 +83,6 @@
 ### 🤝 Let’s Connect
 - 📫 Email: shivansh15tandon@gmail.com(mailto:shivansh15tandon@gmail.com)
 - 💼 LinkedIn: linkedin.com/in/shivansh-tandon(https://www.linkedin.com/in/shivansh-tandon-243a481b3/)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
