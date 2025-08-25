@@ -59,21 +59,6 @@
 - 🏗 Building scalable MERN projects with auth, payment, and dashboard features
 - 📊 Practicing and Learning Daily about Web Dev and Python.
 - 🐍 Studying **Python** as a secondary focus for scripting, automation & backend flexibility.
----
-
-### 📌 Featured Projects
-<a href="https://wanderlust-q8mx.onrender.com/listings">
-  🧾 <b>Wanderlust</b> – Full-stack travel app
-</a><br>
-<a href="https://trading-app-3-p1kh.onrender.com/">
-  📊 <b>Trading-App</b> – Full-stack Trading App
-</a><br>
-<!-- <a href="https://github.com/your-username/project-3">
-  🧠 <b>DSA Practice</b> – Java-based clean DSA solutions with explanations
-</a> -->
-
----
-
 
 ---
 
