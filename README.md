@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+web+apps;Leveling+up+DSA+in+JavaScript;Open+to+new+opportunities&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+web+apps;Leveling+up+DSA+in+Java;Open+to+new+opportunities&center=true&width=500&height=30">
 </p>
 
 ---
