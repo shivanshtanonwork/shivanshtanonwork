@@ -13,7 +13,7 @@
 </a><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+apps;Leveling+up+Frontend+skills;Open+to+new+opportunities&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+apps;Leveling+up+Frontend/Backend+skills;Open+to+new+opportunities&center=true&width=500&height=30">
 </p>
 
 ---
