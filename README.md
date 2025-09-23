@@ -23,7 +23,7 @@
 - 💼 Previously worked as **Associate Software Engineer at DHL IT Services**, contributing to enterprise-grade web applications, responsive UIs, and frontend optimization  
 - 📍 Based in **India**, open to **relocation** or **remote work**  
 - 🌱 Focused on **scalable, responsive, and performant frontend architectures**  
-- 🧰 Tech Playground: MERN Stack, React.js, JavaScript (ES6+), REST APIs, Git, HTML, CSS, WordPress, Python (basic)
+- 🧰 Tech Playground: MERN Stack, React.js, JavaScript (ES6+), REST APIs, Git, HTML, CSS, Java (basic)
 
 ---
 
