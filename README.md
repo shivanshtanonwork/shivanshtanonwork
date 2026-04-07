@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Shivansh Tandon</h1>
-<h3 align="center">Frontend-Focused Full Stack Developer | MERN Enthusiast | Building Scalable & Responsive Web Applications</h3>
+<h3 align="center">Full Stack Developer | Python & React | Building Scalable & Responsive Web Applications</h3>
 
 ### 📌 Featured Projects
 <a href="https://wanderlust-q8mx.onrender.com/listings">
@@ -19,7 +19,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Frontend Developer at **Cogent Tech Solutions** with **3 years of professional experience**  
+- 💼 FullStack Developer at **Cogent Tech Solutions** with **3 years of professional experience**  
 - 💼 Previously worked as **Associate Software Engineer at DHL IT Services**, contributing to enterprise-grade web applications, responsive UIs, and frontend optimization  
 - 📍 Based in **India**, open to **relocation** or **remote work**  
 - 🌱 Focused on **scalable, responsive, and performant frontend architectures**  
