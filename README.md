@@ -53,9 +53,9 @@ Familiar with AI-assisted tools: ChatGPT, Cursor, GitHub Copilot
 ---
 
 ### 🧠 Currently Focused On
-- 🏗 Building scalable MERN projects with **auth, payment, dashboards, and frontend optimizations**  
+- 🏗 Building scalable Full-Stack projects with **auth, payment, dashboards, and frontend optimizations**  
 - 📊 Practicing and improving **frontend performance, lazy loading, config-driven UI, shimmer effects, and responsive designs**  
-- 🐍 Learning **Python** for scripting and automation
+- 🐍 Learning **Python** for backend and automation
 
 ---
 
